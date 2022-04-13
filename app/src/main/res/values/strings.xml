@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Avance -8-4-22</string>
+    <string name="nombre">Nombre</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="celular">Celular</string>
+</resources>
